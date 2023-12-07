@@ -1,2 +1,2 @@
-# Do-It
-To-Do List App made in Android. Tutorial available on Youtube.
+# Description
+This is a an exercise to apple some changes to Do-it project.
